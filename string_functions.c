@@ -4,7 +4,6 @@
 * _strcmp - compares two strings.
 * @s1: compared to s2;
 * @s2: compared to s1;
-*
 * Return: returns difference between strings
 */
 int _strcmp(char *s1, char *s2)
@@ -22,7 +21,6 @@ int _strcmp(char *s1, char *s2)
 /**
 * _strlen - returns the length of a string
 * @s: string passed
-*
 * Return: returns length of string passed
 */
 int _strlen(char *s)
@@ -42,7 +40,6 @@ int _strlen(char *s)
 * @s1: compared to s2
 * @s2: compared to s1
 * @n: number of bytes
-*
 * Return: difference between s1 and s2
 */
 int _strncmp(char *s1, char *s2, int n)
@@ -60,7 +57,6 @@ int _strncmp(char *s1, char *s2, int n)
 /**
 * _strdup - dupicates string
 * @s: to be duplicated
-*
 * Return: pointer to duplicate string
 */
 char *_strdup(char *s)
@@ -87,7 +83,6 @@ char *_strdup(char *s)
 * _strchr - locates a character in a string
 * @s: string to be checked
 * @c: character to be located
-*
 * Return: returns pointer to first occurence of character
 * or NULL if character not found
 */
