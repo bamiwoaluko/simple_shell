@@ -4,7 +4,6 @@
 * @ac: argument count
 * @av: argument vector
 * @envp: environment vector
-*
 * Return: 0
 */
 
