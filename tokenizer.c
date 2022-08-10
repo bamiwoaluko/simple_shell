@@ -1,10 +1,10 @@
 #include "shell.h"
 
 /**
-* tokenizer - creates tokens from given input
+* tokenizer - creates tokens from given input.
 * @line: to be tokenized
 *
-* Return: array of strings
+* Return: arrays of strings
 */
 char **tokenizer(char *line)
 {
