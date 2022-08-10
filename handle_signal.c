@@ -1,8 +1,8 @@
 #include "shell.h"
 
 /**
- *handle_signal- it keeps track is interactive mode
- *@m: the signal number
+ *handle_signal- it keeps track is interactive mode.
+ *@m: the signal numbers
  *Return: nothing
  */
 
